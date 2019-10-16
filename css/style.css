@@ -1310,10 +1310,30 @@
 /*********************************************************************************/
 
 	.h1{
-		font-size:40px; 
-		margin-left: 100px; 
-		color:#F4A460; 
-		font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+		font-size: 40px;
+		float: left;
+		width: 400px;
+		margin-left: 0px;
+	}
+	.h2{
+		font-size: 40px;
+		float: left;
+		margin-left: 406px;
+		margin-top: -438px;
+		width: 400px;
+		height: 318px;
+	}
+	.h3{
+			font-size: 40px;
+			float: left;
+			margin-left: 810px;
+			margin-top: -438px;
+			height: 318px;
+			width: 300px;
+
+	}
+	.pol{
+		text-align: center;
 	}
 
 	#main

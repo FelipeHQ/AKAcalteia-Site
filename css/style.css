@@ -1055,7 +1055,6 @@
 	position: relative;
 	text-align: center;
 	width: 200px;
-	-webkit-transform: translateZ(0); /* webkit flicker fix */
 	-webkit-font-smoothing: antialiased; /* webkit text rendering fix */
 }
 
@@ -1324,12 +1323,12 @@
 		height: 318px;
 	}
 	.h3{
-			font-size: 40px;
-			float: left;
-			margin-left: 810px;
-			margin-top: -438px;
-			height: 318px;
-			width: 300px;
+		font-size: 40px;
+		float: left;
+		margin-left: 810px;
+		margin-top: -438px;
+		height: 318px;
+		width: 300px;
 
 	}
 	.pol{
